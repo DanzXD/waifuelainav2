@@ -150,7 +150,7 @@ global.author = '                「 Chisato Bot  あ」'
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
 global.fpagedoc = '1'.repeat(10)
-global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
+global.thumbdoc = 'https://telegra.ph/file/1d521971e32e17673db11.jpg'
 
 
 /*============== LOGO ==============*/
