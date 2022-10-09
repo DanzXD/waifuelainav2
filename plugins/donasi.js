@@ -20,7 +20,7 @@ let thumb = await(await fetch(wibu)).buffer()
 conn.sendButtonDoc(m.chat, str, wm,'Sewa Bot','.sewa', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
     mediaUrl: "https://Instagram.com/me_kyluesky",
     mediaType: "VIDEO",
-    description: "https://www.instagram.com/reel/CiHhixLD9Q0/?igshid=NGI3YWI1Y2U=", 
+    description: "https://www.instagram.com/p/Ccl6tqtP2_D/?igshid=NGI3YWI1Y2U=", 
     title: 'Nishikigi Chisato MultiDevice',
     body: wm,
     thumbnail: thumb,
