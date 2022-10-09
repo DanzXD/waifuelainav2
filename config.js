@@ -156,7 +156,7 @@ global.thumbdoc = 'https://telegra.ph/file/1d521971e32e17673db11.jpg'
 /*============== LOGO ==============*/
 global.thumb = 'https://i.ibb.co/XZrK6yQ/transformers.jpg' //Main Thumbnail
 global.imagebot = 'https://i.ibb.co/XZrK6yQ/transformers.jpg'
-global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
+global.giflogo = 'https://telegra.ph/file/e7582d6f6bb36e062d028.mp4'
 global.thumbs = ['https://i.ibb.co/XZrK6yQ/transformers.jpg']
 global.fla = 'https://i.ibb.co/XZrK6yQ/transformers.jpg'
 global.thumbnailUrl = [
