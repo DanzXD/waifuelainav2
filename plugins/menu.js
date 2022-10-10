@@ -630,7 +630,7 @@ const listMessage = {
                 {
                     urlButton: {
                         displayText: `${namebot}`,
-                        url: 'https://github.com/WH-MODS-BOT/'
+                        url: 'https://beacons.ai/chisato'
                     }
                 },
                 {
@@ -662,7 +662,7 @@ const listMessage = {
        //await conn.sendMessage(m.chat, message, m, { mentionedJid: [m.sender] })
 
     //------------------- 2BUTTON VID
-    // conn.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/XZrK6yQ/transformers.jpg' }, text, footer: 'ᴍᴀᴅᴇ ᴡɪᴛʜ ❤ ʙʏ', templateButtons: [{ quickReplyButton: { displayText: 'Speedtest⚡', id: `${_p}speedtest` }}, { quickReplyButton: { displayText: 'Owner🎀', id: `${_p}owner` }} ] })
+    // conn.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/b6e2bba6536b567d8a55a.jpg' }, text, footer: 'ᴍᴀᴅᴇ ᴡɪᴛʜ ❤ ʙʏ', templateButtons: [{ quickReplyButton: { displayText: 'Speedtest⚡', id: `${_p}speedtest` }}, { quickReplyButton: { displayText: 'Owner🎀', id: `${_p}owner` }} ] })
 
     // FIX MENU WHATSAPP BASE NEW DAN BAKAL EXPIRED SAAT MARK SUDAH FIX WHATSAPP UPDATE ENTAH VERSI BERAPA
     // MAU YANG NO ENC 10K AJA , MINAT PC GW wa.me/6282127487538
