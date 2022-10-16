@@ -6,10 +6,10 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 let td = 'application/vnd.openxmlformats-officedocument.wordprocessingml.document'
 
 conn.reply(m.chat, info, m, { quoted: fkontak },{ contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: "https://www.youtube.com/channel/kyluesky",
+    mediaUrl: "https://instagram.com/d4nzz.xd",
     mediaType: 2,
-    description: "https://www.youtube.com/channel/kyluesky", 
-    title: 'Nishikigi Chisato',
+    description: "https://instagram.com/d4nzz.xd", 
+    title: 'ElainaBotz',
     body: wm,
     thumbnail: thumb,
     sourceUrl: sig  }}})
