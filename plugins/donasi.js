@@ -18,10 +18,10 @@ let str = `${global.wm}
 let wibu = `https://i.ibb.co/P5BBzbf/286637238-392674839545088-948545114162206238-n.jpg` 
 let thumb = await(await fetch(wibu)).buffer()
 conn.sendButtonDoc(m.chat, str, wm,'Sewa Bot','.sewa', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: "https://Instagram.com/me_kyluesky",
+    mediaUrl: "https://instagram.com/d4nzz.xd",
     mediaType: "VIDEO",
-    description: "https://www.instagram.com/p/Ccl6tqtP2_D/?igshid=NGI3YWI1Y2U=", 
-    title: 'Nishikigi Chisato MultiDevice',
+    description: "https://www.instagram.com/p/CjGzlMeMZ7n/?igshid=YmMyMTA2M2Y=", 
+    title: 'Elaina Botz MultiDevice',
     body: wm,
     thumbnail: thumb,
     sourceUrl: sig
