@@ -49,32 +49,32 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
-global.sig = 'https://instagram.com/me_kyluesky' // ig
-global.sgh = 'https://beacons.ai/chisato' // github
-global.sgc = 'https://beacons.ai/chisato' // group whatsapp
-global.sdc = 'https://beacons.ai/chisato'//discord
-global.snh = 'https://www.youtube.com/channel/kyluesky' // my youtube channel
-global.sfb = 'https://beacons.ai/chisato' // facebook
-global.syt = 'https://beacons.ai/chisato' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
+global.sig = 'https://instagram.com/d4nzz.xd' // ig
+global.sgh = 'https://beacons.ai/danzzxd' // github
+global.sgc = 'https://beacons.ai/danzzxd' // group whatsapp
+global.sdc = 'https://beacons.ai/danzzxd' //discord
+global.snh = 'https://beacons.ai/danzzxd' // my youtube channel
+global.sfb = 'https://beacons.ai/danzzxd' // facebook
+global.syt = 'https://beacons.ai/danzzxd' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
 /*============== PAYMENT ==============*/
-global.pdana = '085808936396' //dana
-global.povo = '085808936396' //ovo
-global.pgopay = '085808936396' //gopay
-global.plinkaja = '08XXXXXXXXXX' //link aja
-global.ppulsa = '085808936396' //telkomsel
-global.ppulsa2 = '08XXXXXXXXXX' // kalau ada kartu lain isi aja
+global.pdana = '085895774939' //dana
+global.povo = 'gada' //ovo
+global.pgopay = '085895774939' //gopay
+global.plinkaja = 'gada' //link aja
+global.ppulsa = '081313144291' //telkomsel
+global.ppulsa2 = '085895774939' // kalau ada kartu lain isi aja
 global.psaweria = 'gada'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6281937563993'
 global.nomorown = '6285808936396'
-global.namebot = 'Chisato Bot'
-global.nameown = 'Nishikigi Chisato'
+global.namebot = 'ElainaBotz'
+global.nameown = 'DanzzXD'
 
 /*============== Github Thanks To ==============*/
-global.namagithub = 'Nishikigi Chisato' // nama github lu
-global.linkgithub = 'beacons.ai/chisato' // tarok link github lu
+global.namagithub = 'DanzzXD' // nama github lu
+global.linkgithub = 'beacons.ai/danzzxd' // tarok link github lu
 
 // klau kgk ada github kasih tanda '-' aja biar kgk error
 
@@ -85,8 +85,8 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285808936496', 'Nishikigi Chisato', true],
-  ['-', 'ISI KALAU ADA', true],
+  ['6285895774939', 'DanzzXD¹', true],
+  ['6281313144291', 'DanzXD²', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true]
@@ -138,14 +138,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Chisato Bot 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ Chisiato Bot ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Chisato Bot '
+global.wm = '                「 Elaina Botz 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ Elaina Botz ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ Elaina Botz '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By Nishikigi Chisato`
-global.packname = 'Nishikigi Chisato'
-global.author = '                「 Chisato Bot  あ」'
+global.titlebot = `⫹⫺ WhatsApp Bot | By Elaina Botz`
+global.packname = 'DanzzXD'
+global.author = '                「 DanzzXD  あ」'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
@@ -636,8 +636,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'Elaina Bot'
-global.stickauth = `By © Nishikigi Chisato`
+global.stickpack = 'ElainaBotz'
+global.stickauth = `By © DanzzXD`
 
 global.multiplier = 38 // The higher, The harder levelup
 
