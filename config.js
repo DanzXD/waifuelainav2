@@ -143,8 +143,8 @@ global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ Elaina Botz ˘ฅ ꒱ ‧₊˚꒷�
 global.wm3 = '⫹⫺ Elaina Botz '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By Elaina Botz`
-global.packname = 'DanzzXD'
+global.titlebot = `⫹⫺ WhatsApp Bot | By DanzzXD`
+global.packname = 'ElainaBotz'
 global.author = '                「 DanzzXD  あ」'
 
 /*Fake*/
