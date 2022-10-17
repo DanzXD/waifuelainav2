@@ -32,7 +32,7 @@ ${emot}│☂︎ *Tanggal Islam:* %dateIslamic
 │╰────────────────···
 ┠─────═[ INFO BOT ]═─────⋆
 │╭────────────────···
-┴│☂︎ *Nama Bot:* %me
+┴│☂︎ *Nama Bot:* ElainaBotz~MD
 ${emot}│☂︎ *Mode:* %mode
 ${emot}│☂︎ *Prefix:* [ *%_p* ]
 ${emot}│☂︎ *Baileys:* Multi Device
